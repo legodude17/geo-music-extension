@@ -1,0 +1,12 @@
+html {
+    width: 750px;
+    height: auto;
+    background-image: url(assets/backdrop.png);
+    font-size:25px;
+}
+td {
+    margin-top: 10px;
+}
+h1 {
+    margin-left: 300px;
+}
